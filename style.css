@@ -1,0 +1,53 @@
+.HBOX{
+
+	-fx-alignment:top-center;
+	
+	
+}
+.PANE{
+	-fx-background-color: cornsilk; 
+	-fx-alignment: center;
+}	
+
+.VBOX{
+	-fx-background-color:grey;
+	-fx-alignment:center;
+	
+}
+
+.OUT{
+	-fx-background-color:	lightskyblue ;
+	-fx-alignment: center;
+	-fx-border-style:solid;
+	-fx-stroke:red;
+	-fx-min-width:45;
+	-fx-min-height:45;
+	}
+
+.GRID{
+  
+   -fx-background-color: 	indianred;
+  -fx-alignment: center;
+
+    -fx-border-color:blue;
+   
+   
+	fx-grid-lines-visible:	true;
+	-fx-min-width:45;
+	-fx-min-height:45;
+}
+
+.CHANGE{
+	  
+   -fx-background-color: yellow;
+  -fx-alignment: center;
+
+    -fx-border-color:blue;
+   
+   
+	fx-grid-lines-visible:	true;
+	-fx-min-width:45;
+	-fx-min-height:45;
+	}
+
+
